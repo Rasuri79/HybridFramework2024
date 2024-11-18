@@ -1,0 +1,4 @@
+22:34:24.416 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rrkumar\eclipse-workspace\HybridFrameWork121\testng.xml"
+22:34:24.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rrkumar\eclipse-workspace\HybridFrameWork121\testng.xml
+
